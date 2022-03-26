@@ -1,5 +1,11 @@
 # README for Criador de Super-Herói #
 
+Os alunos serão introduzidos a elementos de design, como o botão de
+rádio (opção), menu suspenso e blocos de código, como showElement,
+hideElement, setImageURL, e getProperty.
+
+Atividade ministrada pela professora Louise Lalanne.
+
 This is the README file for the Criador de Super-Herói app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
